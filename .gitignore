@@ -1,0 +1,12 @@
+# 运行时生成的数据：包含聊天记录与贴纸库，可能涉及个人隐私，请勿提交
+chat_history.json
+stickers.json
+logs/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 本地密钥配置（请自行在 config.py 填写，不要提交含真实 KEY 的版本）
+# config.py 已作为空白模板纳入版本管理
